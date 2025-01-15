@@ -1,6 +1,6 @@
-## Elements of sustainable ICT
+# Elements of sustainable ICT
 
-### 7.1.2025
+## 7.1.2025
 
 ### Overview
 
@@ -17,3 +17,15 @@ We consume a lot more than what we used to. Processing power has gotten cheaper 
 4. Renewable energy also has emissions, nothing is without a cost. That would be against enthropy. Lifecycle emissions are smallest for nuclear power in Europe. The grid is getting greener, atleast in Europe.
 
 5. Unefficient programming languages are gaining popularity.
+
+## 15.1.2025
+
+### Notes
+-
+
+### Overview
+
+### Key learnings
+
+
+
