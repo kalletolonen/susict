@@ -21,7 +21,76 @@ We consume a lot more than what we used to. Processing power has gotten cheaper 
 ## 15.1.2025
 
 ### Notes
--
+-Finnish corporation has developed measuring tools
+-Modern datacenters consume a substantial amount of power & cooling
+-Nordic datacenters can use 'free cooling' & use waste heat for district heating
+-Power outages are not a problem
+-UPS can be used for electricity arbitrage
+
+-Applications live in the datacenters
+-On-prem, private & public clouds
+-Private cloud is private, public is something like AWS & Azure
+-Edge computing optimizes latency
+
+-Cooling takes about 40% of dc electricity
+-Connectivity takes most of the energy
+-Architecture runs in waves, we're changing between virtual to physical and centralized & distributed
+
+-DC is an optimization game, just like everything else. You need to live with constraints
+-Saas is a cloud service
+	-Company provides software that runs in cloud, makes things easy for customers
+-Customer expectations
+	-Certified security
+	-Scalability
+	-Green values & easy reporting for scope 3
+	-Really good connectivity
+
+DC business model
+Enterprise:
+-company owns their own stuff on their own location
+-low availability
+-expensive/unit of compute
+-<1MW
+-Full control
+
+Colocation
+-Own stuff in someone else's place
+-High availability
+-Cheaper/unit of compute
+-Less control
+-<50MW
+
+Hyperscale
+-Giant workloads
+-Economies of scale
+-High availability
+-Cheapest/unit
+-Little control
+->150MW
+
+Colocation grows fast, hyperscalers use colocation centers as edge DC to reduce latency. Colocations are certified for many things ie. money transfer, env issues & security. You can buy a ½-rack or a whole floor if you'd like to.
+
+TIER IV DC's are 99,995%
+TIER III DC's are 99,982%
+etc.
+
+More redundancy and availability have costs.
+
+DC's have a plethora of different energy systems. We need energy and cooling both.
+
+Ambient temperature helps in north. GPU's need liquid cooling.
+DC's have physical security and it security both.
+
+DCIM monitors everything.
+
+Certs give confirmation and validation to customers.
+
+PUE = TOTAL ENERGY / IT ENERGY
+Scandinavian DCs perform well in measurements
+
+DCs are a stable and predictable heat source. Other person's trash is a treasure for someone else.
+
+AI search can be 10* more expensive than regular search
 
 ### Overview
 
