@@ -1,6 +1,6 @@
 # Elements of sustainable ICT
 
-## 7.1.2025
+## 07.01.2025
 
 ### Overview
 
@@ -18,7 +18,7 @@ We consume a lot more than what we used to. Processing power has gotten cheaper 
 
 5. Unefficient programming languages are gaining popularity.
 
-## 15.1.2025
+## 15.01.2025
 
 ### Overview
 
@@ -30,4 +30,50 @@ Modern datacenters consume a substantial amount of power & cooling. Nordic datac
 -Certs give confirmation and validation to customers
 -Server racks consume a lot of power
 
+
+## 21.01.2025
+
+### Notes
+- Electricity consumption will double in 10 years
+- There are different types of energy
+- ICT energy consumption is huge
+- Global energy is still mainly produces with fossil fuels
+- Canada, US & Australia are big fossil fuel hogs
+- Renewable sources are slowly increasing and eating up the the fossil part of the mix
+- Hydro is the largest part of renewables and Wind & Solar are the fastest growers
+- Finnish electricity consumption (83tWh) hasn't increased from 2004ish
+- Finland has 3rd lowest electricity prices in Europe
+- Wind power makes prices volatile
+- Wind & Solar, Nuclear, Hydro have low variable costs
+- There's elasticity in electricity demand, it can be balanced with storage and pricing
+- There are electricity market places for 10y to 15 minute window
+- Europe has an interconnected electricity market, there's a lot of trading going on
+- There are contracts to buy electricity at steady prices and you can also buy "Wind energy", ie. buy a certain amount of kWh and the supplier has to produce that amount during the time window
+- There's a plan to secure critical energy supply
+- We need reserve markets to keep the frequency balanced - it needs to be within tolerance or the grid will fail
+- ICT requires a lot of batteries to prepare for disturbances, and you can make money from your capacity when it's not needed for current operations
+- ICT stakeholders appreaciate single price region in Finland
+- Combined production of heat & electricity is quite efficient, it's used in wintertime
+- Biomass has incraesed it's share of DH's energy sources
+- District heating can utilize the heat that's generated in DC operation
+	- Needs priming to higher temperature
+	- There a mismatch in heat supply and heat demand
+	- Also a risk for reliability since DC's can go bankrupt etc.
+	- There's emerging tech in heat storage
+- What can you do
+	- You can personally make sure to use renevables
+	- Utilize waste heat
+	- Seek efficiency
+- Datacenter investment is growing b/c AI
+	- DC's use great amount of energy in one spot
+	- DC's will have energy storage
+- In the future we should couple DC's, energy sector and city planning
+	
+	
+
+	
+
+### Overview
+
+### Key learnings
 
