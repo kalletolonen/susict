@@ -33,47 +33,14 @@ Modern datacenters consume a substantial amount of power & cooling. Nordic datac
 
 ## 21.01.2025
 
-### Notes
-- Electricity consumption will double in 10 years
-- There are different types of energy
-- ICT energy consumption is huge
-- Global energy is still mainly produces with fossil fuels
-- Canada, US & Australia are big fossil fuel hogs
-- Renewable sources are slowly increasing and eating up the the fossil part of the mix
-- Hydro is the largest part of renewables and Wind & Solar are the fastest growers
-- Finnish electricity consumption (83tWh) hasn't increased from 2004ish
-- Finland has 3rd lowest electricity prices in Europe
-- Wind power makes prices volatile
-- Wind & Solar, Nuclear, Hydro have low variable costs
-- There's elasticity in electricity demand, it can be balanced with storage and pricing
-- There are electricity market places for 10y to 15 minute window
-- Europe has an interconnected electricity market, there's a lot of trading going on
-- There are contracts to buy electricity at steady prices and you can also buy "Wind energy", ie. buy a certain amount of kWh and the supplier has to produce that amount during the time window
-- There's a plan to secure critical energy supply
-- We need reserve markets to keep the frequency balanced - it needs to be within tolerance or the grid will fail
-- ICT requires a lot of batteries to prepare for disturbances, and you can make money from your capacity when it's not needed for current operations
-- ICT stakeholders appreaciate single price region in Finland
-- Combined production of heat & electricity is quite efficient, it's used in wintertime
-- Biomass has incraesed it's share of DH's energy sources
-- District heating can utilize the heat that's generated in DC operation
-	- Needs priming to higher temperature
-	- There a mismatch in heat supply and heat demand
-	- Also a risk for reliability since DC's can go bankrupt etc.
-	- There's emerging tech in heat storage
-- What can you do
-	- You can personally make sure to use renevables
-	- Utilize waste heat
-	- Seek efficiency
-- Datacenter investment is growing b/c AI
-	- DC's use great amount of energy in one spot
-	- DC's will have energy storage
-- In the future we should couple DC's, energy sector and city planning
-	
-	
-
-	
-
 ### Overview
+There are different types of energy and electricity consumption will double in 10 years. ICT's energy consumption is huge. Global energy is still mainly produces with fossil fuels and Canada, US & Australia are big fossil fuel hogs. Renewable sources are slowly increasing and eating up the the fossil part of the mix: hydro is the largest part of renewables and wind & solar are the fastest growers. Finnish electricity consumption (83tWh) hasn't increased from 2004ish, I would say that's because we haven't had any meaningfull growth in economy either, since all business requires energy.
+
+There's elasticity in electricity demand, it can be balanced with storage and pricing and there's a market where you can take trade in energy. We  also need reserve markets to keep the frequency balanced - it needs to be within tolerance or the grid will fail. ICT requires a lot of batteries to prepare for disturbances, and you can make money from your capacity when it's not needed for current operations. Combined production of heat & electricity is quite efficient, it's used in wintertime and Biomass has incraesed it's share of District Heatings' energy sources. District heating can utilize the heat that's generated in DC operation, but it does need some priming to get it up to required temperatures and currently there isn't much need for the heat during summer. In the future we should couple DC's, energy sector and city planning and also store the heat generated in non-peak times for future use. DC energy usage is only going skywards, since there's growing investment into AI.
 
 ### Key learnings
-
+- There's opportunity for innovation in heat storage
+- There's opportunity in energy storage
+- Finland has one of the lowest prices of electricity and the whole country is priced as a whole, which is tempting to DC investment
+- There's a mismatch in DC heat energy supply and demand
+- The grid needs to be balanced at all times
