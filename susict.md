@@ -44,3 +44,18 @@ There's elasticity in electricity demand, it can be balanced with storage and pr
 - Finland has one of the lowest prices of electricity and the whole country is priced as a whole, which is tempting to DC investment
 - There's a mismatch in DC heat energy supply and demand
 - The grid needs to be balanced at all times
+
+## 28.01.2025 Networks and Services
+
+### Overview
+There are data centers of various sizes, core networks, last mile networks & user devices. Data centers have high variablity in energy consumption, networks have intermediate differences, "last mile" can have big impact in corporate environments and user devices have high variablity in resource consumption. Energy consumption in switching from consumers to networks and DC's and AI is the new big dog for energy consumption. 
+
+Number of users connected to internet is growing, mainly in Asia & Africa (2018-2023 8% CAGR). IOT (Machine 2 machine) is the part of the device lineup that's growing (10% CAGR) rapidly. High download speeds are not available in developing countries for fixed networks, but some do have great mobile options. Smartphones provide the most amount of traffic nowdays (30% CAGR in 17-22 for all device types). The kWh/GB ratio has improved by a lot, but we do use a lot more data now than we used to. Netflix goes up in energy consumption, even as they're using renewables, and video is driving more and more demand for bandwith and data transfer. Ericsson predicts that 5G mobile usage will go up a lot and fixed access won't grow as dramatically. There's energy usage for almost idle devices too, but network equipment has pretty much non-existing full load consumption increase.
+
+### Key learnings
+-Nielsen's Law, ie. internet speed is growing by 50% by year in the high end of the spectrum
+-5G uses less energy than 4G only when the load goes up
+-A lot of data is generated every second in Internet
+-Size of web pages has grown 350% since 2011, they're not actually optimized for mobile devices
+-Better video quality requires more data
+-Online shopping has an environmental advantage compared to physical retail stores, even the biggest emission driver of last mile delivery has smaller footprint than going to store yourself
