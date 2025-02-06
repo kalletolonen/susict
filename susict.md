@@ -59,3 +59,20 @@ Number of users connected to internet is growing, mainly in Asia & Africa (2018-
 -Size of web pages has grown 350% since 2011, they're not actually optimized for mobile devices
 -Better video quality requires more data
 -Online shopping has an environmental advantage compared to physical retail stores, even the biggest emission driver of last mile delivery has smaller footprint than going to store yourself
+
+## 04.02.2025 Materials in ICT equipment
+
+### Overview
+Smartphone materials include a lot of different elements, including precious metals and REEs. Rare earth materials are not rare, but hard to extract in quantities (small concentrations in Earth's crust). By using more sofisticated materials we have more sofiticated functionality in our devices and products. The chemical complexity of products has increased.
+
+Batteries are a big part of ICT devices. Lithium Ion batteries are 25% of the market and alkaline batteries still dominate the market with 66% in Finland (2022). Battery waste is growing, they're hazardous waste. LFP is also problematic, since it decreases the incentives to recycle (they're cheap). Battery recycling is also challenging, since the chemistry of batteries is evolving rapidly. Metal production aims to increase the concentration and purity of the desired material until it's usable in the end product/process. EOL for batteries is not currently planned for recycling, but there's some pressure for it in EU thanks to regulation (Raw Material Act). 
+
+300 new mines could be needed to meet battery demand in 2035 and mining creates a lot or revenues & jobs. Pollution is a key negative impact, and Green colonialism is pushing indiginous people to the sidelines, since the metals are in such a demand. In theory minerals are indefinetely recycleable, but in practice it's more complicated, since they're present in small quantities. We aren't collecting enough of the waste we produce - unused devices go to landfill & stay at homes and businesses.
+
+### Key learnings
+
+- Clean energy transition is mineral-intensive, ie. an EV requires 2-4 times more of when compared to a lecagy car
+- Metals produce positive impacts in electrification and ICT
+- Critical raw materials are substances that are used in manufacting goods that are of high importance to the economy and whose supply is associated with high risk
+- Urban mining is the process of "mining" the waste we produce, after urban mining the process is similar to primary metals extraction
+- We should think about the material flows in a holistic way
