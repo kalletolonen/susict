@@ -76,3 +76,29 @@ Batteries are a big part of ICT devices. Lithium Ion batteries are 25% of the ma
 - Critical raw materials are substances that are used in manufacting goods that are of high importance to the economy and whose supply is associated with high risk
 - Urban mining is the process of "mining" the waste we produce, after urban mining the process is similar to primary metals extraction
 - We should think about the material flows in a holistic way
+
+## 11.02.2025 On electronics and repairability
+
+### Overview
+
+### Key learnings
+
+### Notes
+
+- Sustainable electronics balance between env resp. and tech needs
+- EEE was designed without thought given to recycling, repairability, reuse or reduction
+- Energy efficiency is somewhat addressed, since it's perf related
+- Producing the equipment requires resources and produces harmfull pollution
+	- ie. a plasma etching agent is 24000 x worse than co2
+- ESPR Ecodegin for susteainable products regulation
+	- Increases information
+	- Guides towards reusablity, upgradeability and so on
+- Ecodesign takes into account the env effects
+	- Lifecycle, holistic thinking in focus
+	- See PNG
+- Life Cycle Assessment (LCA)
+	- See PNG
+
+
+Green ICT:hen AI:sta mainintaa
+- vältä kaikkea turhaa
