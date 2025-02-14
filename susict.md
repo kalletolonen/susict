@@ -98,7 +98,48 @@ Batteries are a big part of ICT devices. Lithium Ion batteries are 25% of the ma
 	- See PNG
 - Life Cycle Assessment (LCA)
 	- See PNG
+LCI for semiconductors
+- measured from facility level
+- process step level
+- Could be assessed from previous data, if quality data is available
+
+LCA in practice for electronics
+- We can compare 2 products for an application
+- Gradle to gate -> what's the whole process before use in end user application
+- See PNG "a case study"
+- Comparison is always relative to something else
+
+Analyzing the the product requires a lot of effort and deep knowledge of the processes.
+
+We should also include the other lifecycle phases, not just the manufacturing and judged in a case by case basis, since the usage is unique.
+
+
+### Repairability
+
+- Common device changing reasons are: slowness, lack of security updates, dead battery, physical breakage, device is not repairable for a reasonable price, want for a fancier product
+- Could you use the old device for something else, ie. use it for longer?
+- Repairing reduces waste, provides savings and conserves raw materials & the shipping & manufacturing energy
+- 75 Mt in 2030 of e-waste
+	- Most of Asia in tons
+	- Per capita from Oceania & Europe
+Europe is good with recycling (>40%), Africa is the worst (<1%)
+-Materials acquisition, Design and manufacturing, use phase, EOL <- Main life cycle stages
+- Smartphones produce 10's of kg's of co2, even as they weight under 0.5kg
+	- Storage increases emissions non-linearly (weight does not change that much)
+- How long to use a smartphone in Finland to reach manufacting co2?
+	- 277 years?
+	- For a Dell server most of the emissions is from storage
+	- 1 server manufacturing is equal to 186kkm in a Volvo XC60
+- French have implemeted a repairability score
+	- Manufacturers interpret the rules jovially
+- Some vendors are focusing on repairability
+- EU will have a repairability label
+- US has Right to Repair movement
+
+
+
 
 
 Green ICT:hen AI:sta mainintaa
 - vältä kaikkea turhaa
+
