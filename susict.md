@@ -80,66 +80,14 @@ Batteries are a big part of ICT devices. Lithium Ion batteries are 25% of the ma
 ## 11.02.2025 On electronics and repairability
 
 ### Overview
+Ecological design is getting more and more important. Eco-design should be applied in a holistic manner. Measuring Cradle-to-gate LCA is sub-optimal, since it does not consider the usage of the device. ESPR, ie. Eco-design for Sustainable Products Regulation will provide pressure to companies to measure and improve their resource usage. One point is that electronics need to balance between environmental responsability and tech needs. Analyzing the the product requires a lot of effort and deep knowledge of the processes.
+
+Common device changing reasons are: slowness, lack of security updates, dead battery, physical breakage, device is not repairable for a reasonable price, want for a fancier product. Materials acquisition, Design and manufacturing, use phase, EOL are the main life cycle stages. Repairing reduces waste, provides savings and conserves raw materials & the shipping & manufacturing energy. Smartphones produce 10's of kg's of co2, even as they weight under 0.5kg. The French have implemeted a repairability score and the manufacturers interpret the rules in their own favor. Some vendors are focusing on repairability, ie. Fairphone. It's important to extend the lifecycle of products - could you use the your old device for something else or use it for longer?
 
 ### Key learnings
-
-### Notes
-
-- Sustainable electronics balance between env resp. and tech needs
-- EEE was designed without thought given to recycling, repairability, reuse or reduction
-- Energy efficiency is somewhat addressed, since it's perf related
-- Producing the equipment requires resources and produces harmfull pollution
-	- ie. a plasma etching agent is 24000 x worse than co2
-- ESPR Ecodegin for susteainable products regulation
-	- Increases information
-	- Guides towards reusablity, upgradeability and so on
-- Ecodesign takes into account the env effects
-	- Lifecycle, holistic thinking in focus
-	- See PNG
-- Life Cycle Assessment (LCA)
-	- See PNG
-LCI for semiconductors
-- measured from facility level
-- process step level
-- Could be assessed from previous data, if quality data is available
-
-LCA in practice for electronics
-- We can compare 2 products for an application
-- Gradle to gate -> what's the whole process before use in end user application
-- See PNG "a case study"
-- Comparison is always relative to something else
-
-Analyzing the the product requires a lot of effort and deep knowledge of the processes.
-
-We should also include the other lifecycle phases, not just the manufacturing and judged in a case by case basis, since the usage is unique.
-
-
-### Repairability
-
-- Common device changing reasons are: slowness, lack of security updates, dead battery, physical breakage, device is not repairable for a reasonable price, want for a fancier product
-- Could you use the old device for something else, ie. use it for longer?
-- Repairing reduces waste, provides savings and conserves raw materials & the shipping & manufacturing energy
-- 75 Mt in 2030 of e-waste
-	- Most of Asia in tons
-	- Per capita from Oceania & Europe
-Europe is good with recycling (>40%), Africa is the worst (<1%)
--Materials acquisition, Design and manufacturing, use phase, EOL <- Main life cycle stages
-- Smartphones produce 10's of kg's of co2, even as they weight under 0.5kg
-	- Storage increases emissions non-linearly (weight does not change that much)
-- How long to use a smartphone in Finland to reach manufacting co2?
-	- 277 years?
-	- For a Dell server most of the emissions is from storage
-	- 1 server manufacturing is equal to 186kkm in a Volvo XC60
-- French have implemeted a repairability score
-	- Manufacturers interpret the rules jovially
-- Some vendors are focusing on repairability
-- EU will have a repairability label
-- US has Right to Repair movement
-
-
-
-
-
-Green ICT:hen AI:sta mainintaa
-- vältä kaikkea turhaa
+- 75 Mt in 2030 of e-waste (Most of Asia in tons, per capita from Oceania & Europe)
+-Europe is good with recycling (>40%), Africa is the worst (<1%)
+- Storage increases emissions non-linearly (weight does not change that much)
+- Manufacturing a server is equal to 186kkm in a Volvo XC60
+- EU will have a repairability label and US has Right to Repair movement
 
