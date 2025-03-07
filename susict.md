@@ -86,8 +86,54 @@ Common device changing reasons are: slowness, lack of security updates, dead bat
 
 ### Key learnings
 - 75 Mt in 2030 of e-waste (Most of Asia in tons, per capita from Oceania & Europe)
--Europe is good with recycling (>40%), Africa is the worst (<1%)
+- Europe is good with recycling (>40%), Africa is the worst (<1%)
 - Storage increases emissions non-linearly (weight does not change that much)
 - Manufacturing a server is equal to 186kkm in a Volvo XC60
 - EU will have a repairability label and US has Right to Repair movement
+
+## 25.02.2025 On Green Software
+
+ICT sector accounts for 4-10% of global energy consumption and these numbers are growing. Software work has 3 bigger phases: development, testing & deployment and usage. Usage is the phase where most of the emissions occur, since that's where most of the time and work (as in energy) is done.
+
+ICT's business logic is bringing new and fancier stuff to market - SaaS measures time to market, devs think about making their own life easier and efficiency & environmental issues are secondary or not considered at all. There little to no progress in making software environmentally responsible even as it would curb energy usage. The more operations & data we need/use, the more hardware we need and that increases demands for networks and premises - we consume more, it's a cascading effect. 
+
+Cloud providers have incentives to use less energy or hardware. This leads to higher utilization and that's good for the environment. There isn't much transparency - nobody knows who has the most efficient systems.
+
+Manufacturing -> logistics -> usage -> dismantling (negative effect on emissions, since can provide resources), is the cycle of hardware emissions. Data centers and networks produce most of their emissions in operative phase (80/20), but end user devices are about 50/50 (manufacturing/usage).
+
+It's difficult to measure energy usage of software. There isn't a solid scientific framework for measurement. It's a good idea to measure electricity consumption over time. There aren't public measurement, so there's a lack of a benchmark. There a link between execution time and energy usage, if it's not possible to measure electricity consumption directly.
+
+### Key learnings
+- We consume more and more
+- There's no agreed upon framework for measurement
+- Minimal principle - the minimal possible solution to solve for needs of user and do nothing else
+- E-waste is the growth leader of waste and we should keep old devices running as long as possible
+- All energy production causes emissions, even renewables - Finland has 10x better (greener) grid than Germany. 34 gCo2/kWh vs. 385 gCO2/kWh
+
+## 04.03.2025 AI
+
+AI is the discipline of developing intelligent agents that encompases machine learning, deep learning, generative AI (ability to create new content based on what's learned). Types of DL models are Discriminate models (can classify cat pictures) and Generative AI models that can generate cat pictures (very compute intensive).
+
+ML and AI models are build in 4 phases:	development (Collect data -> clean -> train), training (Live data and validation produces trained models), Inference (Query -> prediction (output of some sort)) and Monitoring.
+
+### Measuring Energy
+
+Measuring the consumption of DC's and the equipment used in DC's, and there's not much you can do.
+
+### Measuring Emissions
+
+Lifecycle emissions are produced in each phase (Product -> contructions -> maintain & use -> EOL -> beyond lifecycle), where maintain & use-phase is responsible for the most. Measuring operational carbon emissions is done by carbon intensity, which is how many grams of co2 /kwh (co2-equilevant) is being produced.
+
+### Reports
+Reports of energy & emissions from AI are provided by cloud vendors (there are obvious reliablity concerns in self reporting). Development-phase is computationally intensive and it's not studied extensively. Training-phase has been discussed a lot - 10-15% of Google's total energy consumption (19-21) and 40% of that was used for training. There are claims that it's a stable propotion of energy use in ML.
+
+We can have an impact by reporting metrics if we're involved in development of models, choose providers and hardware cafefully and use the models in a responsible way.
+
+### Key learnings
+- Energy consumption is trending upwards
+- Emission depend upon: ML-model (architecture, params, hours to train), Machines used (CPUs/GPUs/TPUs) perf/watt, Mechanization (Cloud computing, on-prem) and Geographical region (Carbon intensity of the electricity used)
+- Image generation uses most resources, text classification the least (2 orders of magnitude)
+- 40% of energy is used in training, 60% is used in inference and inference requests are growing
+		
+			
 
