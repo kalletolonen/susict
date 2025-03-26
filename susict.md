@@ -135,5 +135,65 @@ We can have an impact by reporting metrics if we're involved in development of m
 - Image generation uses most resources, text classification the least (2 orders of magnitude)
 - 40% of energy is used in training, 60% is used in inference and inference requests are growing
 		
-			
+## 11.03.2025 On sustainability mindset
 
+There are design condiderations for designing an ICT-system. Some of the needs are environmental, social, economic, individual and tech related. The scope of the effects are direct, indirect or structural.
+
+All of our lives are embedded in ICT and there's no such thing as sustainable ICT, even as there's sustainablity in the society. They're inseparable. Think about stuff on the whole lifecycle of the device/service.
+
+Some climate change effects are hard to understand, ie. Sulphur-rich shipping exhausts have actually cooled the earth. We have some real challenges like forever chemicals, microplastics in human fetuses, biodiversity loss and ever growing emissions.
+
+It's not all doom & gloom, there's some hope too: Ozone layer is rejuvinating, green land area is growing, water cleanup was begun and plastic restrictions are on the horizon.
+
+Prisoner's dilemma can be applied to sustainability thinking, it's basicly saying that taking short term (or short sighted) approach may produce good results in the short run, but we'll be worse off in the long run. Future can't be foretold, but we can affect how it's going to shape out. You can always ask a question: how can this be done more sustainably?
+
+### Key learning (Tools for systemic thinking)
+1. Interconnectedness understands how parts interacts and what phenomenons arise from the interactions
+2. Feedback mechanisms recognises connection types and feedback mechanisms
+3. Emergence is where whole is more than the sum of it's parts
+4. How the Pieces Fit is understanding how and why certain pieces interact in particular way
+5. Relationships is System dynamics (feedback loops, emergent phenomena)
+6. Analysis and Synthesis are detail & 10k ft view
+
+### Bonus tidbits (co2-emissions of various activities): 
+Email == ~4 g/co2
+Letter == 20-25 g/co2
+PDF == 20 g/co2
+pic == 50 g/co2
+e-invoice == 1 g/co2
+One GPT query == 4.3 g/co2
+Whatsapp == 0.2 g/co2
+Text 0.014 == g/co2
+avg car 180 g/km == 45 emails
+
+
+25.3.2025 On Sustainability In ICT Business Context
+
+-Telco is about logistics -> transferring data (goods) from place A to place B.
+-Telco uses the most energy in Mobile Access (first principles)
+-Telia would like to halve the emissions in value chain by 2030 and reach net zero by the same date, also zero waste by 2030
+-Telia will implement a supplier code of conduct
+-Impact on society and env, there are opportunities and risks
+	- Double Materiality matrix is a tool for this
+-Emissions are calculated from spend/revenues
+	-Not ideal
+-most of Telia's emissions come from it's supply chain
+	-Their goals are linked with the suppliers performance in said metrics
+-1/3 of Telia's annual report is about sustainability
+	-They believe this will generate business in addition to just complying to regulation
+	-Companies are interested in sustainability
+	-Consumers don't really care
+-Telia doesn't really use it's batteries for energy arbitrage (used for USP-uses as mandated by regulation)
+-Finnish electricity network is good, so we have same price on the whole country
+-Electricity price lock in is problematic, since the prices are dynamic
+	-Dollar cost averaging is a good strategy
+-Big companies can make PPA's, when they agree to buy x amount of electricity from a wind farm or some other form or generation
+	-Virtual PPA (Supports renewable generation)
+	-Sleeved PPA (Via Fortum)
+	-Physical delivery (Actual energy from utility)
+-Telia used 95& in energy, 4% in district heating and 1% in fuel
+-KPI = kWh/GB with high quality
+	-Too good quality is a problem too
+
+### Key learnings
+-Phone leases actually increase phone lifespan, since the leasing company is paying for the lease if the device is at someone's table drawer
