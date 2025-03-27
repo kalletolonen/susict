@@ -169,31 +169,18 @@ avg car 180 g/km == 45 emails
 
 25.3.2025 On Sustainability In ICT Business Context
 
--Telco is about logistics -> transferring data (goods) from place A to place B.
--Telco uses the most energy in Mobile Access (first principles)
--Telia would like to halve the emissions in value chain by 2030 and reach net zero by the same date, also zero waste by 2030
--Telia will implement a supplier code of conduct
--Impact on society and env, there are opportunities and risks
-	- Double Materiality matrix is a tool for this
--Emissions are calculated from spend/revenues
-	-Not ideal
--most of Telia's emissions come from it's supply chain
-	-Their goals are linked with the suppliers performance in said metrics
--1/3 of Telia's annual report is about sustainability
-	-They believe this will generate business in addition to just complying to regulation
-	-Companies are interested in sustainability
-	-Consumers don't really care
--Telia doesn't really use it's batteries for energy arbitrage (used for USP-uses as mandated by regulation)
--Finnish electricity network is good, so we have same price on the whole country
--Electricity price lock in is problematic, since the prices are dynamic
-	-Dollar cost averaging is a good strategy
--Big companies can make PPA's, when they agree to buy x amount of electricity from a wind farm or some other form or generation
-	-Virtual PPA (Supports renewable generation)
-	-Sleeved PPA (Via Fortum)
-	-Physical delivery (Actual energy from utility)
--Telia used 95& in energy, 4% in district heating and 1% in fuel
--KPI = kWh/GB with high quality
-	-Too good quality is a problem too
+Telco is about logistics, you can think about it as in transferring data (goods) from place A to place B. Telco uses the most energy in Mobile Access (first principles dictate this).
+
+Telia would like to halve the emissions in value chain by 2030 and reach net zero by the same date, also zero waste by 2030, this is done, ie. via a supplier code of conduct that mandates the rules of doing business with Telia. This is probably a good approach, since most of Telia's emissions come from it's supply chain.
+
+Corporate emissions are calculated from spend/revenues, which is not ideal, but it's a starting point. Telia communicates that sustainability is important to them. They have a third of their annual report dedicated to the topic. Corporate customers are interested in sustainability and consumers don't really care about it in a same manner. Telia doesn't really use it's batteries for energy arbitrage (used for USP-uses as mandated by regulation). Finnish electricity network is good, so we have same price on the whole country. Big companies can make PPA's for electricity, when they agree to buy x amount of electricity from a wind farm or some other form or generation. The forms of PPA are:
+- Virtual PPA (Supports renewable generation)
+- Sleeved PPA (Via an electricity company)
+- Physical delivery (Actual energy from utility)
 
 ### Key learnings
--Phone leases actually increase phone lifespan, since the leasing company is paying for the lease if the device is at someone's table drawer
+- Phone leases actually increase phone lifespan, since the leasing company is paying for the lease if the device is at someone's table drawer
+- Electricity price lock in is problematic, since the prices are dynamic
+- Dollar cost averaging is a good strategy
+- Telia used 95& in energy, 4% in district heating and 1% in fuel
+- KPI for energy is kWh/GB with good enough quality
