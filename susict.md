@@ -167,7 +167,7 @@ Text 0.014 == g/co2
 avg car 180 g/km == 45 emails
 
 
-25.3.2025 On Sustainability In ICT Business Context
+## 25.3.2025 On Sustainability In ICT Business Context
 
 Telco is about logistics, you can think about it as in transferring data (goods) from place A to place B. Telco uses the most energy in Mobile Access (first principles dictate this).
 
@@ -182,5 +182,41 @@ Corporate emissions are calculated from spend/revenues, which is not ideal, but 
 - Phone leases actually increase phone lifespan, since the leasing company is paying for the lease if the device is at someone's table drawer
 - Electricity price lock in is problematic, since the prices are dynamic
 - Dollar cost averaging is a good strategy
-- Telia used 95& in energy, 4% in district heating and 1% in fuel
+- Telia used 95% in energy, 4% in district heating and 1% in fuel
 - KPI for energy is kWh/GB with good enough quality
+
+## 1.4.2025 Final words and Aalto's own emissions
+
+Digital services - conseptual model
+Data centers
+Core networks
+Home/office Networks
+User devices
+
+Aalto publishes data regularly using GHG-protocol. Biggest emissions are procurement, business travel, energy procurement, commuting and well-to-tank emissions of energy. ICT devices have a 7% share. Emissions dropped by 49% from 2023 to 2024, which is done mainly by using greener energy. No contruction work mean no construction related emissions. ICT emissions are mostly related to device lifecycle emissions, 80/20 model works here too. Device emissions are mostly laptops, TV's and LCD-screens. 
+
+What are included in ICT-sector emissions? 
+
+There are dramatical diffenrences in grid dirtyness, an order or magnitude is the size of the difference, so someone in Poland can pollute the same amount even if they use a tenth of the energy. More renewables == lifecycle emissions matter more. China produces more per capita emissions than Finland. USA is the greatest in emissions too, so doing more means more emissions.
+
+Rough estimates
+Smart phone creates around 60-100kg of CO2
+Server 1000+kg
+GPU 1500kg?
+A100 GPU 120 000KG?
+
+Repairability might be coming back to devices. Idle consumption is smaller than active use consumption.
+
+Fixed networks are common in developed countries, Africa has poor fixed networks. AI is computation heavy, but not heavy for the network. 4K video requires a lot of network. Datacenters require a lot of energy, big companies want private nuclear power plants. 
+
+Predictions for future: 
+2030
+End user devices will be ~50% of the energy use
+Data centers will also take a lot of the energy
+
+Energy usage graphs are exponential according to Lawrence-Berkeley and Aalto too. A lot of demand for renewable energy, might be regulated in some other industry, but in ICT it's business as usual. Offsetting isn't reducing emissions, since it's not reducing the emissions of the producer. The offsetting business is pretty much a scam. Carbon neurality pays someone else to not pollute, net zero requires operational changes.
+
+Digital sufficiency == what is good enough. Do we always need better quality?
+Digital sobriety == amount of ICT, what is enough?
+
+Would consumer rather accept higher price (=more quality) or less quality for added sustainability? Could we have a slower internet in nighttime for example? Could we have digital services open in a limited time, digital service times could save energy. Pricing could drive users to pay more for ie. 4K streaming than HD streaming and thus use less of it. 99% of ICT emissions are hidden from consumers. It's not clear if the benefits (handprint) outweight the carbon footprint. We should consider carefully how we could do more with less.
